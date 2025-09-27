@@ -1,0 +1,12 @@
+﻿  源.c
+C:\Users\1zhinian\Desktop\过程\过程\源.c(28,38): warning C4474: printf: 格式字符串中传递的参数太多
+      C:\Users\1zhinian\Desktop\过程\过程\源.c(28,38):
+      占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+C:\Users\1zhinian\Desktop\过程\过程\源.c(41,13): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+      C:\Users\1zhinian\Desktop\过程\过程\源.c(41,13):
+      此参数由转换说明符使用
+  
+C:\Users\1zhinian\Desktop\过程\过程\源.c(42,16): warning C4133: “函数”: 从“int [100]”到“const char *”的类型不兼容
+C:\Users\1zhinian\Desktop\过程\过程\源.c(45,21): warning C4133: “函数”: 从“int [100]”到“const char *”的类型不兼容
+  过程.vcxproj -> C:\Users\1zhinian\Desktop\过程\x64\Debug\过程.exe
